@@ -5,10 +5,10 @@ We build tools that let many AI coding agents work together, and with the people
 
 ### Stazione
 
-A shared station where every coding-agent session is a crew member: missions, file locks, messages, votes and a live pixel-art view of who is doing what. Works with any coding agent; built and tested with Claude Code. Made for small teams and offices.
+A shared station where every coding-agent session is a crew member: missions, file locks, messages, votes and a live pixel-art view of who is doing what. Works with any coding agent; tested on real projects with Claude Code. Made for small teams and offices.
 
 *Coming soon: source available, free for non-commercial use.*
 
 ---
 
-Based in Italy · Built with Claude Code
+Based in Italy
