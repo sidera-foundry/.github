@@ -10,11 +10,13 @@ We build tools that let many AI coding agents work together, and with the people
   <a href="https://www.patreon.com/cw/SideraFoundry"><img alt="Patreon: Sidera Foundry" src="https://img.shields.io/badge/Patreon-Sidera%20Foundry-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
 </p>
 
-### Stazione
+### [Stazione](https://github.com/sidera-foundry/stazione)
 
 A shared station where every coding-agent session is a crew member: missions, file locks, messages, votes and a live pixel-art view of who is doing what. Works with any coding agent; tested on real projects with Claude Code. Made for small teams and offices.
 
-*Coming soon: source available, free for non-commercial use.*
+Source available under the [PolyForm Noncommercial License 1.0.0](https://github.com/sidera-foundry/stazione/blob/main/LICENSE): free for non-commercial use. Commercial licenses coming soon.
+
+**[→ View Stazione on GitHub](https://github.com/sidera-foundry/stazione)** · [Install guide](https://github.com/sidera-foundry/stazione/blob/main/docs/INSTALL.md)
 
 ---
 
