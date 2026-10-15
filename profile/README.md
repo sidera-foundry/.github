@@ -17,7 +17,7 @@ A shared station where every coding-agent session is a crew member: missions, fi
 
 Source available under the [PolyForm Noncommercial License 1.0.0](https://github.com/sidera-foundry/stazione/blob/main/LICENSE): free for non-commercial use. Commercial licenses coming soon.
 
-**[→ View Stazione on GitHub](https://github.com/sidera-foundry/stazione)** · [Install guide](https://github.com/sidera-foundry/stazione/blob/main/docs/INSTALL.md)
+**[▶ Try the live demo](https://stazione-demo.vercel.app)** · **[→ View Stazione on GitHub](https://github.com/sidera-foundry/stazione)** · [Install guide](https://github.com/sidera-foundry/stazione/blob/main/docs/INSTALL.md)
 
 ---
 
